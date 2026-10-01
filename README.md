@@ -21,9 +21,9 @@ Información corporativa registrada ante la **Cámara de Comercio de Cali**:
 | :--- | :--- |
 | **Razón Social** | Cross Style |
 | **NIT** | `900238405-7` |
-| **Matrícula Mercantil** | `901513-6` (Cali - Valle) |
+| **Matrícula Mercantil** | `901513-60` (Cali - Valle) |
 | **Dirección Comercial** | CL 54 NORTE # 26 - 117 CS 7, Cali, Colombia |
-| **Línea WhatsApp** | `+57 304 402 8376` |
+| **Línea WhatsApp** | `+57 304 232 5488` |
 | **Correo Electrónico** | `soporte@crossstyle.online` |
 | **Dominio Oficial** | [crossstyle.online](https://crossstyle.online/) |
 
@@ -98,7 +98,7 @@ src/
 ---
 
 ## 📱 Conversión Directa a WhatsApp
-Cada botón de producto o checkout del carrito genera un enlace directo a la línea de atención de Cross Style (`3044028376`) con el detalle exacto de las prendas elegidas, tallas, cantidades y total aproximado, facilitando el cierre de ventas de inmediato.
+Cada botón de producto o checkout del carrito genera un enlace directo a la línea de atención de Cross Style (`3042325488`) con el detalle exacto de las prendas elegidas, tallas, cantidades y total aproximado, facilitando el cierre de ventas de inmediato.
 
 ---
 

@@ -55,7 +55,7 @@ export const LegalModal: React.FC<LegalModalProps> = ({ isOpen, onClose }) => {
                 ESTABLECIMIENTO DE COMERCIO VERIFICADO
               </p>
               <p className="text-zinc-400">
-                La empresa Cross Style cuenta con registro mercantil activo ante la Cámara de Comercio de Cali con matrícula No. 901513-6 y NIT 900238405-7.
+                La empresa Cross Style cuenta con registro mercantil activo ante la Cámara de Comercio de Cali con matrícula No. 901513-60 y NIT 900238405-7.
               </p>
             </div>
           </div>

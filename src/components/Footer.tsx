@@ -87,7 +87,7 @@ export const Footer: React.FC<FooterProps> = ({ onOpenLegal }) => {
               <li className="flex items-start gap-2.5">
                 <MapPin className="w-4 h-4 text-zinc-500 mt-0.5 flex-shrink-0" />
                 <div>
-                  <span className="text-white block font-medium">Cali, Colombia</span>
+                  <span className="text-white block font-medium">Cali, Valle del Cauca</span>
                   <span className="text-zinc-500 text-[11px]">{BUSINESS_INFO.address}</span>
                 </div>
               </li>

@@ -118,7 +118,7 @@ export const CartProvider: React.FC<{ children: React.ReactNode }> = ({ children
     message += `📱 Quedo atento a la confirmación de disponibilidad y datos de pago. ¡Gracias!`;
 
     const encoded = encodeURIComponent(message);
-    window.open(`https://wa.me/573044028376?text=${encoded}`, '_blank');
+    window.open(`https://wa.me/573042325488?text=${encoded}`, '_blank');
   };
 
   return (

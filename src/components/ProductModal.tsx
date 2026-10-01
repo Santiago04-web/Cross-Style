@@ -45,7 +45,7 @@ export const ProductModal: React.FC<ProductModalProps> = ({ product, onClose }) 
   const handleBuyWhatsApp = () => {
     const text = `Hola Cross Style, estoy interesado en ordenar:\n*${product.name}*\n• Categoría: ${product.category}\n• Talla elegida: ${selectedSize}\n• Cantidad: ${quantity}\n• Precio: ${product.displayPrice}\n\n¿Tienen disponibilidad para envío inmediato?`;
     const encoded = encodeURIComponent(text);
-    window.open(`https://wa.me/573044028376?text=${encoded}`, '_blank');
+    window.open(`https://wa.me/573042325488?text=${encoded}`, '_blank');
   };
 
   return (

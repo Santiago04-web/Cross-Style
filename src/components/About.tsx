@@ -42,7 +42,7 @@ export const About: React.FC<AboutProps> = ({ onOpenLegal }) => {
                       CROSS STYLE EST. 2015
                     </span>
                     <span className="block text-[10px] font-mono text-zinc-400">
-                      CÁMARA DE COMERCIO DE CALI // MATRÍCULA #901513-6
+                      CÁMARA DE COMERCIO DE CALI // MATRÍCULA #901513-60
                     </span>
                   </div>
                 </div>
